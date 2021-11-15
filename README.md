@@ -41,7 +41,7 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone git@github.com:arjohnqafsignal/ssa-exam.git
+    git clone git@github.com:arjohnqafsignal/pb-exam.git
     cd pb-exam
     composer install
     npm install / yarn install
